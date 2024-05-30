@@ -8,5 +8,5 @@ BUILD
 compile_commands.json
 .clangd
 .cache
-EasyCAT
 QEI
+EasyCAT/.hg
